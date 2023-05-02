@@ -1,0 +1,10 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+      <circle cx="150" cy="100" r="50" fill="blue" />
+      
+  <text x="150" y="110" fill="white" font-size="30" font-family="Arial" text-anchor="middle">
+    DQT
+  </text>
+  
+    </svg>
+  
